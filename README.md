@@ -68,6 +68,3 @@ The Support Vector Machine (SVM) achieved the highest Kaggle score and was selec
 Delois Sistrunk Giles
 
 
-## Course
-
-Machine Learning / Data Mining Assignment
